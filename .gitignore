@@ -1,5 +1,4 @@
 /node_modules/
-/build/
 *.local.js
 npm-debug.log*
 .vscode
